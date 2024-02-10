@@ -1,0 +1,1 @@
+The error message indicates that there is an attempt to insert data into the categories table, but one of the columns being referenced, category_slug, does not exist in the table.
